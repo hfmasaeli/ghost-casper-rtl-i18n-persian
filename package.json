@@ -90,6 +90,18 @@
             "xl": {
                 "width": 2000
             }
+        },
+        "custom": {
+            "title_font": {
+                "type": "select",
+                "options": ["Shabnam sans-serif", "Elegant serif"],
+                "default": "Shabnam sans-serif"
+            },
+            "body_font": {
+                "type": "select",
+                "options": ["Shabnam sans-serif", "Elegant serif"],
+                "default": "Shabnam sans-serif"
+            }
         }
     }
 }
